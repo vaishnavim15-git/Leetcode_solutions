@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vaishnavim15-git/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vaishnavim15-git/Leetcode_solutions/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/vaishnavim15-git/Leetcode_solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
